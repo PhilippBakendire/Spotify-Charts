@@ -3,4 +3,4 @@ numpy
 matplotlib
 seaborn
 tensorflow-gpu
-pandas-pofiling
+pandas_pofiling
