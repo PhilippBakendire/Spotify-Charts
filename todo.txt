@@ -1,5 +1,6 @@
 1. array mit länder code + filtern
 2. jahre filterm
 3. songs jahreszeiten zusammenhang
-4. solos / features?
-5. Explicits?
+4. Do Feature counts correlate with the chart position?
+5. Compare the distribution of positions from explicit songs vs non explicit songs
+6. Frequency of genres (Which genres appeared in 2020 vs 2021) (Compare top with songs 100/50)
